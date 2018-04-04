@@ -1,0 +1,24 @@
+{
+  "name": "Typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucascaastro/udemytypescrip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucascaastro/udemytypescrip/issues"
+  },
+  "homepage": "https://github.com/lucascaastro/udemytypescrip#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.106",
+    "lodash": "^4.14.2"
+  }
+}
